@@ -1,0 +1,4 @@
+ramu		vomiting		male		90090909		54
+vijay		headache		male		9090909		  32
+akhil		headache		male		xxxxxxxxx		20
+Gowtham	 High Fever	 Male		9087654		 18

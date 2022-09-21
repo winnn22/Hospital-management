@@ -1,0 +1,4 @@
+206		sonika	heart		9-4		phd				312
+204		karan	brain		9-5		phd				322
+227		Ramesh	Skin		10-4	MBBS			329
+206		krish	lungs		11-5	MBBS			310

@@ -1,0 +1,2 @@
+rakesh	male		sweeper		cleaning		90909090		45
+billu	 male		sweeper		cleaning		909090909		45

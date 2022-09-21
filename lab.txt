@@ -1,0 +1,4 @@
+corona test			50
+Blood test			125
+ct scan			4000
+BP check 			100
